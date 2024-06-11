@@ -34,9 +34,9 @@ This prank app is meant for entertainment purposes only and should be used respo
 
 
 ## Screenshots 📸
-<img src="Resource\output (1).png">
-<img src="Resource\output (2).png">
-<img src ="Resource\output (3).jpg">
+<img src="Resource\output (1).png" height="250">
+<img src="Resource\output (2).png" height="250">
+<img src ="Resource\output (3).jpg" height="250">
 ---
 
 ```
